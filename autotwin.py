@@ -80,7 +80,7 @@ if page == "Real-Time Monitoring":
 
     # Production Line Schematic (Placeholder)
     st.markdown("### Production Line Schematic")
-    st.image("https://github.com/aniketd0613/dtwin_Eureka/blob/main/schematic.png", caption="Live Production Line")
+    st.image("https://raw.githubusercontent.com/aniketd0613/dtwin_Eureka/main/schematic.png", caption="Live Production Line")
 
 # Page 2: Predictive Maintenance
 elif page == "Predictive Maintenance":
